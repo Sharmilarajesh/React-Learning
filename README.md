@@ -5,7 +5,7 @@ React is a popular JavaScript library for building **user interfaces**, especial
 
 ---
 
-# `useState`?
+# `useState`
 
 `useState` is one of the **React Hooks** that lets you add **state** to functional components.
 
@@ -25,7 +25,7 @@ const [count, setCount] = useState(0);
 
 ---
 
-## What I Did in This Project
+### About this Project
 
 I created a simple **Counter App** using React and the `useState` hook. Here's what the app does:
 
@@ -39,7 +39,7 @@ I created a simple **Counter App** using React and the `useState` hook. Here's w
 
 ---
 
-##  What I Learned
+###  What I Learned
 
 * How to use the `useState` hook in React.
 * How to handle user interaction using event handlers.
@@ -48,20 +48,20 @@ I created a simple **Counter App** using React and the `useState` hook. Here's w
 ---
 
 ### Screenshots
-![Counter App Screenshot](counter%20app(useState).png)
-![Counter App Screenshot](counter%20app2.png)
-![Counter App Screenshot](counter%20app3.png)
+![Counter App Screenshot](counter-app-useState.png)
+![Counter App Screenshot](counter-app2.png)
+![Counter App Screenshot](counter-app3.png)
 
 
-
+---
 
 ## Another Example-- React Cart App using useState Hook
 
-## What I Did in This Project
+### About this project
 
 I built a **Shopping Cart App** using React and the `useState` hook. It uses a mock dataset to simulate a real product cart. Here's what the app can do:
 
-### Features:
+
 
 *  Displays the **total number of products** in the cart.
 *  Lists all products with name and price.
@@ -85,7 +85,7 @@ Each product has:
 
 ---
 
-## 💡 What I Learned
+### What I Learned
 
 * How to use `useState` to store and update lists.
 * How to use `map(), filter()` to delete specific items.
@@ -98,11 +98,9 @@ Each product has:
 
 ### Screenshot 
 
-![Cart App Screenshot](cart%20app1(useState).png)
-![Cart App Screenshot](cart%20app2.png)
-![Cart App Screenshot](cart%20app3.png)
-
-
+![Cart App Screenshot](cartapp1-useState.png)
+![Cart App Screenshot](cart-app2.png)
+![Cart App Screenshot](cart-app3.png)
 
 ---
 
@@ -119,7 +117,7 @@ Each product has:
 
 ---
 ## React Toggle Project
-## About This Project
+### About This Project
 
 
 - Using `useState` to show or hide a component (`DemoComponent`) when a button is clicked.
@@ -130,9 +128,10 @@ Each product has:
 
 ### screenshot
 
-![Cart App Screenshot](toggle1(useEffect).png)
+![Cart App Screenshot](toggle1-useEffect.png)
 ![Cart App Screenshot](toggle2.png)
 
+---
  
  ## GitHub Users App
 
@@ -141,8 +140,7 @@ This React project displays a list of GitHub users using the GitHub public API. 
 ---
 
 
-
-## ️ About this project
+### ️ About this project
 
 - Fetches a list of GitHub users from the GitHub API.
 - Displays each user's:
@@ -157,4 +155,6 @@ This React project displays a list of GitHub users using the GitHub public API. 
 
 ### screenshot
 
-![Cart App Screenshot](github%20user(useEffect).png)
+![Cart App Screenshot](github-user-useEffect.png)
+
+---
