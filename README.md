@@ -1,3 +1,7 @@
+reference: https://github.com/CodeWith-Karthik/ReactJs-Templates
+
+https://www.youtube.com/watch?v=RjRXJGbC8cA&t=1324s
+
 
 # React
 
@@ -156,5 +160,30 @@ This React project displays a list of GitHub users using the GitHub public API. 
 ### screenshot
 
 ![Cart App Screenshot](github-user-useEffect.png)
+
+---
+
+# Add to cart -simple project
+
+### About the project
+- A form to add product name and price.
+- Products are listed in the cart after adding.
+- Buttons to delete each item and clear the entire cart.
+-  Total products shown on top.
+- Count updates automatically on add/delete.
+- "Cart is Empty" shown when no items.
+
+The Cart component is already there. I have used in this project.
+
+---
+
+# useRef
+
+`useRef` is a React hook that returns a mutable ref object whose `.current` property is initialized with the passed argument (`initialValue`). This object persists for the full lifetime of the component.
+
+### Purpose
+- To **access and interact with DOM elements** directly in a React component.
+- To **store mutable values** that persist across renders **without causing re-renders** when updated.
+- To **keep track of previous state or values** inside a component without triggering a UI update.
 
 ---
